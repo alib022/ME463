@@ -5,7 +5,7 @@ Here you can find the lecture notes for discussion session of Introduction to Fi
 You can contact me by email at bakhshi3@uwm.edu.
  
 
-
+----
 Ali Bakhshinejad 
 
 Ph.D. Candidate at University of Wisconsin-Milwaukee
