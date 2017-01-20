@@ -6,5 +6,5 @@ You can contact me by email at bakhshi3@uwm.edu.
  
 
 
-Ali Bakhshinejad \n
-Ph.D. Candidate at University of Wisconsin-Milwaukee
+* Ali Bakhshinejad 
+* Ph.D. Candidate at University of Wisconsin-Milwaukee
